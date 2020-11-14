@@ -2,6 +2,9 @@ Hey there 👋,
 
 I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web-Development and Data Science.
 
+<a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 <!--
 **sagarparker/sagarparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
