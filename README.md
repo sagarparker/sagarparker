@@ -1,4 +1,5 @@
-### Hi there 👋 I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web-Development and Data Science.
+### Hey there 👋,
+### I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web-Development and Data Science.
 
 <!--
 **sagarparker/sagarparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
