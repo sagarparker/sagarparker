@@ -1,7 +1,10 @@
 Hey there 👋,
 
 
-I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web-Development and Data Science.&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web-Development and Data Science.&nbsp;&nbsp; 
+
+<a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/">LinkedIn</a>&nbsp;&nbsp;
+<a href="sagar8parker@gmail.com">mail</a>&nbsp;&nbsp;
 
 
 
