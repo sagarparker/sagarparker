@@ -4,7 +4,7 @@ Hey there 👋,
 I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web-Development and Data Science.&nbsp;&nbsp; 
 
 <a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/">LinkedIn</a>&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dsagar8parker%40gmail.com%26subject%3DHi%2520There%26body%3Dbody%2520goes%2520here">mail</a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dsagar8parker%40gmail.com">mail</a>&nbsp;&nbsp;
 
 
 
