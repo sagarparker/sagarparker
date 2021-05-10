@@ -1,7 +1,7 @@
-Hey there 👋,
+### Hey there 👋,
 
 
-I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web and Mobile development.&nbsp;&nbsp; 
+### I am Sagar Parker a motivated computer science student seeking experience building opportunities in Full-Stack Web and Mobile development.&nbsp;&nbsp; 
 
 <a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/">LinkedIn</a>&nbsp;&nbsp;
 <a href="https://sagarparker.github.io/">Portfolio</a>&nbsp;&nbsp;
