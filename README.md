@@ -9,6 +9,8 @@
 
 
 
+<br>
+
 ### My Tech Stack
 
 <img src="https://img.icons8.com/color/55/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/dusk/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/ios/48/000000/digitalocean.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> <img src="https://img.icons8.com/color/48/000000/ethereum.png"/>
