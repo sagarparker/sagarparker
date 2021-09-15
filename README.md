@@ -1,7 +1,7 @@
 <h3>Hey there 👋,</h3>
 
 
-<h4>I am Sagar Parker, a full-stack software engineer.&nbsp;&nbsp; </h4>
+<h4>I am Sagar Parker, a Full-Stack Software Engineer.&nbsp;&nbsp; </h4>
 
 <a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/">LinkedIn</a>&nbsp;&nbsp;
 <a href="https://sagarparker.github.io/">Portfolio</a>&nbsp;&nbsp;  
