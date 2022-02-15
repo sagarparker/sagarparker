@@ -4,7 +4,7 @@
 <h4>I am Sagar Parker, a Full-Stack Software Engineer and an advocate of a decentralized internet.&nbsp;&nbsp; </h4>
 
 <a href="https://www.linkedin.com/in/sagar-parker-07561b1a3/">LinkedIn</a>&nbsp;&nbsp;
-<a href="https://sagarparker.github.io/">Portfolio</a>&nbsp;&nbsp; <a href="https://www.hackerrank.com/sagar8parker">HackerRank</a>&nbsp;&nbsp;
+<a href="https://sagarparker.github.io/">Portfolio</a>&nbsp;&nbsp; <a href="https://www.hackerrank.com/sagar8parker">HackerRank</a>&nbsp;&nbsp;  <a href="https://opensea.io/assets/matic/0x1f367a2162ac989057ce757a558b8a686348136e/4193">HackerRank</a>&nbsp;&nbsp;
 
 <h3>My Tech Stack</h3>
 
